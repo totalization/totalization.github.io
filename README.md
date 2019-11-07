@@ -1,2 +1,3 @@
 # totalization.github.io
-my first project
+https://totalization.github.io
+Демонстрация проекта.
